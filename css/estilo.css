@@ -1,0 +1,21 @@
+body
+{
+ 
+  font-size: 26px;
+  background: linear-gradient( #0d87c0 , #08e0c3);
+}
+
+input {
+    background-color: #5d88b1 ;
+   border-radius: 10px;
+  
+}
+h1{
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-size: 60px;
+  
+}
+.table{
+  font-size: 15px;
+  margin-top: 300px;
+}
